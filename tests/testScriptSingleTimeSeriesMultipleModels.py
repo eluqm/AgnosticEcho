@@ -5,7 +5,7 @@ import numpy as np
 import time
 import pandas as pd
 from tslib.src import tsUtils
-
+# first commit to lab
 # load data, means and obsevations
 Data = read_data('testdata/MixtureTS2.h5')
 trainData = Data['obs']
